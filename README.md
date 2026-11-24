@@ -13,7 +13,9 @@
 
 [安装插件](https://download2.obsworks.com/installer/OBS%E6%8F%92%E4%BB%B6%E4%B8%AD%E5%BF%83.exe) · [插件中心](https://www.obsworks.com/center/) · [OBS 直播管家](https://www.obsworks.com/gj/) · [安装教程](https://vmmbvgdeeg.feishu.cn/docx/G3k7dErPLoDe9Wx3DfFccj2ZnKf) · [常见问题](#常见问题)
 
-<img src="assets/protect-diagram.png" alt="左侧主播端画面中聊天窗口正常显示，右侧观众端同一位置被遮罩挡住" width="900">
+
+
+<img src="https://github.com/user-attachments/assets/3aa69c51-7646-4b5d-aae8-e2c23b276bf7" alt="左侧主播端画面中聊天窗口正常显示，右侧观众端同一位置被遮罩挡住" width="900">
 </div>
 
 ---
